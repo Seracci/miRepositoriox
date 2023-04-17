@@ -8,7 +8,10 @@ public class Prueba {
 	}
 
 	public String getNombre() {
+
 		return "otro cadd";
+
+		return "otro cambio OO";
 	}
 
 	public void setNombre(String nombre) {
