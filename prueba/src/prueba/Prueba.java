@@ -8,7 +8,7 @@ public class Prueba {
 	}
 
 	public String getNombre() {
-		return "hola";
+		return "adios";
 	}
 
 	public void setNombre(String nombre) {
